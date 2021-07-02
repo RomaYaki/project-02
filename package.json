@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Vladtravel.github.io/project-02",
+  "homepage": "http://romayaki.github.io/project-02/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-02/"
